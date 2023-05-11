@@ -1,2 +1,2 @@
 # StepperM
-Control a StepperMotor with Arduino when a voltage spike is detected
+Controle d'un StepperMotor avec un Arduino lorsque la tension mesurée est 0. Autrement, le moteur s'active et effectue une rotation de 180°.
